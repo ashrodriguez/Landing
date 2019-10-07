@@ -1,0 +1,39 @@
+body {color: #A9B362;
+	background-color: #E4BEFF;
+	align-content: center;
+}
+
+.assignmentrow1 {
+	text-align:center;
+}
+.maintext1 {
+	color: #533866;
+	font-size: 20px;
+	width: 70%;
+	background-color: #A9B362; 
+	display: inline;
+}
+
+.assignmentrow {
+	background-color: #A9B362;
+	margin: 10%;
+	padding: 20px;
+}
+
+.blurbtext {
+	color : #9874B3;
+	font-family: sans-serif;
+	width: 100px;
+	background-color: #A9B362;
+	display: inline;
+	margin: 20px;
+}
+
+.maintext {
+	color: #533866;
+	font-size: 20px;
+	font font-weight: 800;
+	width: 70%;
+	background-color: #A9B362; 
+	display: inline;
+}
